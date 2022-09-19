@@ -4,9 +4,10 @@
 
 ### Objectif principale
 
-- Obtenir plus d’élèves
+L'objectif principal est d'obtenir plus d’élèves
 
 ### Objectif secondaire
+Ce projet comporte plusieurs objectifs secondaire tel que :
 
 - Informer notre public cible sur diférent sujet concernant notre bachelier
 - aider les jeunes en recherche d’étude supérieur à s’orienter
@@ -14,25 +15,27 @@
 
 ## Public cible
 
-- Les futurs étudiants en recherche d’étude supérieur
-- Les étudiants de la section en recherche de stage
-- Les parents intéressé de voir les cours, les valeurs, etc, du bachelier
-- N’importe quel personne souhaitant voir les dernière news de la section
+Les futurs étudiants en recherche d’étude supérieur sont notre public cible principal
+
+Les étudiants de la section en recherche de stage, les parents intéressé de voir les cours, les valeurs, etc, du bachelier, ainsi que toute autre personne souhaitant voir les dernière news de la section font également partie du public cible.
 
 ## Périmètre du site
 
-- Doit être multilingue (Français, Anglais, Néerlandais, Allemand)
-- Doit être responsive pour support mobile
+Notre site doit être multilingue (Français, Anglais, Néerlandais, Allemand).
+
+Il doit, également, être responsive pour les support mobile.
 
 ## Description de l’existant
 
-- Site de la HEPL contenant une brève page explicative du bachelier : [https://hepl.be/fr/techniques-infographiques/web](https://hepl.be/fr/techniques-infographiques/web)
-- Ressource disponible : Logo de la HEPL
-- Ressource interne : Mr Vilain
+Site de la HEPL contient déja une brève page explicative du bachelier : [https://hepl.be/fr/techniques-infographiques/web](https://hepl.be/fr/techniques-infographiques/web)
+
+Le logo de la HEPL est la seul resource déja créer à notre disposition.
+
+Mr Vilain est notre client mais également une aide interne.
 
 ## Charte graphique
 
-- Total liberté de palette de couleur, ainsi que de police
+N'ayant pas de contrainte de design, la palette de couleur ainsi que la police d'écriture sont libre.
 
 ## Arborescence du site
 
@@ -70,24 +73,28 @@
 
 ## Description fonctionnelle
 
-- Présence d’un admin avec différent rôle (ex : Mr Vilain = Super Admin)
-- Môteur de recherche interne à intégrer (package déja fait)
+Il doit y avoir un admin avec différent rôle (ex : Mr Vilain = Super Admin)
+
+Un môteur de recherche interne est également à intégrer (peut se faire grâce à un package déja fait).
 
 ## Information relative au contenu
 
-- Les différents types de contenu : articles pour les news, (possible vidéo pour intervew)
-- !!!! Microdata requise !!!!
+Notre site comportera différents types de contenu : articles pour les news, (possible vidéo pour intervew), etc.
+
+!!!! Les microdatas sont requise !!!!
 
 ## Contrainte technique
 
-- Laravel à utiliser
-- Doit être compatible avec tout les navigateur
-- Intégrer les réseau sociaux
+Laravel est à utiliser pour ce projet.
+
+Notre site doit être compatible avec tout les navigateur=.
+
+Il faut intégrer les réseau sociaux.
 
 ## Accessiblité
 
-- Niveau recherché: AA
+Le niveau d'accessibilité recherché est AA.
 
 ## Planning
 
-- Date de remise : Janvier 2023
+Le travail est à remettre pour Janvier 2023.
