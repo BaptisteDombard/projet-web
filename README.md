@@ -21,9 +21,9 @@ Les étudiants de la section en recherche de stage, les parents intéressé de v
 
 ## Persona
 ### Persona 1:
-
 #### Nom : Tom Spado
 #### Age : 17 ans
+#### Profession : Etudiant en secondaire
 #### Hobby :
 - Le jeux video
 - Les animés
@@ -36,6 +36,10 @@ Arrivant vers la fin de ses études secondaires, il s'inquiète et décide de re
 
 En voyant la formation en infographie sur le site de la HEPL ([https://hepl.be](https://hepl.be)) et étant attiré par le web, il décide se renseigné sur les formations disponibles sur le web en Belgique
 et tombe, par hasard, sur le site de la section.
+#### Affinité 
+Tom utilise en majorité son gsm pour naviguer sur ineternet.
+
+En revanche il n'utilise pas souvant un ordinateur.
 
 ## Périmètre du site
 
