@@ -19,7 +19,7 @@ Les futurs étudiants en recherche d’étude supérieur sont notre public cible
 
 Les étudiants de la section en recherche de stage, les parents intéressé de voir les cours, les valeurs, etc, du bachelier, ainsi que toute autre personne souhaitant voir les dernière news de la section font également partie du public cible.
 
-## Persona
+## Personas
 ### Persona 1:
 #### Nom : Tom Spado
 #### Age : 17 ans
