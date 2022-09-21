@@ -4,14 +4,14 @@
 
 ### Objectif principale
 
-L'objectif principal est d'obtenir plus d’élèves
+L'objectif principal est d'obtenir plus d’élèves.
 
 ### Objectif secondaire
 Ce projet comporte plusieurs objectifs secondaire tel que :
 
-- Informer notre public cible sur diférent sujet concernant notre bachelier
-- aider les jeunes en recherche d’étude supérieur à s’orienter
-- Permettre au entreprises de notre réseaux ou externe de faire une offre de stage
+- Informer notre public cible sur diférent sujet concernant notre bachelier.
+- aider les jeunes en recherche d’étude supérieur à s’orienter.
+- Permettre au entreprises de notre réseaux ou externe de faire une offre de stage.
 
 ## Public cible
 
