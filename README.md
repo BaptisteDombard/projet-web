@@ -24,13 +24,13 @@ Les étudiants de la section en recherche de stage, les parents intéressé de v
 
 #### Nom : Tom Spado
 #### Age : 17 ans
-#### Description :
-Tom est un étudiant de rhéto qui ne sait pas du tout ce qu'il veut faire comme étude supérieure.
-Il a réalisé ses secondaires en général avec comme option principale "science sociale".
 #### Hobby :
 - Le jeux video
 - Les animés
 - Le Japon
+#### Description :
+Tom est un étudiant de rhéto qui ne sait pas du tout ce qu'il veut faire comme étude supérieure.
+Il a réalisé ses secondaires en général avec comme option principale "science sociale".
 #### But :
 Arrivant vers la fin de ses études secondaires, il s'inquiète et décide de regarder, sur le net, différents site pour faire sont choix.
 
