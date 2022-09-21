@@ -19,15 +19,26 @@ Les futurs étudiants en recherche d’étude supérieur sont notre public cible
 
 Les étudiants de la section en recherche de stage, les parents intéressé de voir les cours, les valeurs, etc, du bachelier, ainsi que toute autre personne souhaitant voir les dernière news de la section font également partie du public cible.
 
+## Persona
+### Persona 1:
+
+#### Nom : Tom Spado
+#### Age : 17 ans
+#### Description :
+Tom est un étudiant de rhéto qui ne sait pas du tout ce qu'il veut faire comme étude supérieure.
+Il a réalisé ses secondaires en général avec comme option principale "science sociale".
+####But :
+Arrivant vers la fin de ses études secondaires, il s'inquiete et décide de regarder sur le net différents site pour faire sont choix
+
 ## Périmètre du site
 
-Notre site doit être multilingue (Français, Anglais, Néerlandais, Allemand).
+Notre site doit être multilingue (Français, Anglais, Néerlandais, Allemand) pour pouvoir être compris par tout les belges ou même tout individu des pays environant (Allemagne, France, Pays-Bas).
 
-Il doit, également, être responsive pour les support mobile.
+Il doit, également, être responsive pour pouvoir être lu sur n'importe quel support mobile.
 
 ## Description de l’existant
 
-Site de la HEPL contient déja une brève page explicative du bachelier : [https://hepl.be/fr/techniques-infographiques/web](https://hepl.be/fr/techniques-infographiques/web)
+Le site de la HEPL contient déja une brève page explicative du bachelier ([Page de la section](https://hepl.be/fr/techniques-infographiques/web)).
 
 Le logo de la HEPL est la seul resource déja créer à notre disposition.
 
