@@ -27,7 +27,7 @@ Les étudiants de la section en recherche de stage, les parents intéressé de v
 #### Description :
 Tom est un étudiant de rhéto qui ne sait pas du tout ce qu'il veut faire comme étude supérieure.
 Il a réalisé ses secondaires en général avec comme option principale "science sociale".
-####But :
+#### But :
 Arrivant vers la fin de ses études secondaires, il s'inquiete et décide de regarder sur le net différents site pour faire sont choix
 
 ## Périmètre du site
