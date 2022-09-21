@@ -27,8 +27,15 @@ Les étudiants de la section en recherche de stage, les parents intéressé de v
 #### Description :
 Tom est un étudiant de rhéto qui ne sait pas du tout ce qu'il veut faire comme étude supérieure.
 Il a réalisé ses secondaires en général avec comme option principale "science sociale".
+#### Hobby :
+- Le jeux video
+- Les animés
+- Le Japon
 #### But :
-Arrivant vers la fin de ses études secondaires, il s'inquiete et décide de regarder sur le net différents site pour faire sont choix
+Arrivant vers la fin de ses études secondaires, il s'inquiète et décide de regarder, sur le net, différents site pour faire sont choix.
+
+En voyant la formation en infographie sur le site de la HEPL ([https://hepl.be](https://hepl.be)) et étant attiré par le web, il décide se renseigné sur les formations disponibles sur le web en Belgique
+et tombe, par hasard, sur le site de la section.
 
 ## Périmètre du site
 
@@ -38,7 +45,7 @@ Il doit, également, être responsive pour pouvoir être lu sur n'importe quel s
 
 ## Description de l’existant
 
-Le site de la HEPL contient déja une brève page explicative du bachelier ([Page de la section](https://hepl.be/fr/techniques-infographiques/web)).
+Le site de la HEPL contient déja une brève page explicative du bachelier ([https://hepl.be/fr/techniques-infographiques/web](https://hepl.be/fr/techniques-infographiques/web)).
 
 Le logo de la HEPL est la seul resource déja créer à notre disposition.
 
