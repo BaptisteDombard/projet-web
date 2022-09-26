@@ -32,10 +32,10 @@ Il a réalisé ses secondaires en général avec comme option principale "scienc
 #### But :
 Arrivant vers la fin de ses études secondaires, il s'inquiète et décide de regarder, sur le net, différents site pour faire sont choix.
 
-Il arrive sur le site de la HEPL ([https://hepl.be](https://hepl.be)) et voit la page expliquant brièvement en quoi consiste la section web de notre école.Cepandant, il trouve qu'il n'y a pas assez d'info pour se faire une bonne idée de la formation.
+Il arrive sur le site de la HEPL ([https://hepl.be](https://hepl.be)) et voit la page expliquant brièvement en quoi consiste la section web de notre école. Cepandant, il trouve qu'il n'y a pas assez d'info pour se faire une bonne idée de la formation.
 
 Etant tout de même attiré par le web, il décide se renseigné sur les formations disponibles sur le web en Belgique
-et tombe, par hasard, sur le site de la section.
+et tombe, par hasard, sur le site de la section que nous avons créé.
 #### Affinité 
 Tom utilise en majorité son gsm pour naviguer sur internet.
 
