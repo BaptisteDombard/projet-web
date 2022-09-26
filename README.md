@@ -4,7 +4,7 @@
 
 ### Objectif principale
 
-L'objectif principal est d'obtenir plus d’élèves.
+L'objectif principal est d'avoir plus d’élèves inscrit dans notre section.
 
 ### Objectif secondaire
 Ce projet comporte plusieurs objectifs secondaire tel que :
@@ -14,6 +14,8 @@ Ce projet comporte plusieurs objectifs secondaire tel que :
 - Permettre au entreprises de notre réseaux ou externe de faire une offre de stage.
 
 ## Public cible
+
+Nous pouvons identifier plusieurs public cible. 
 
 Les futurs étudiants en recherche d’étude supérieur sont notre public cible principal
 
@@ -49,7 +51,7 @@ Il doit, également, être responsive pour pouvoir être lu sur n'importe quel s
 
 ## Description de l’existant
 
-Le site de la HEPL contient déja une brève page explicative du bachelier ([https://hepl.be/fr/techniques-infographiques/web](https://hepl.be/fr/techniques-infographiques/web)).
+Le site de la HEPL contient déja une brève page explicative du bachelier mais n'a pas assez d'information ([https://hepl.be/fr/techniques-infographiques/web](https://hepl.be/fr/techniques-infographiques/web)).
 
 Le logo de la HEPL est la seul resource déja créer à notre disposition.
 
