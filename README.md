@@ -98,7 +98,7 @@ Voici ci-dessous un plan indiquant les les information que comporte chaque page.
     - Formulaire pour que les entreprises envoie leur demande de stage
 - Page forum
     - Forum reprenant les questions à destination des élèves de la section
-- Page étudiant
+- Page projet
     - bref explicatif des travaux sous formes d’article
     - Page explicatif travail
         - explicatif détaillé du travail
