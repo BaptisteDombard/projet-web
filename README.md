@@ -71,6 +71,8 @@ Mr Vilain est notre client mais également une aide interne.
 ## **Charte graphique** 
 La police choisie pour réaliser ce projet est la police 'Montserrat'.
 
+La palette de couleur quand à elle, n'est pas encore décidée.
+
 ## **Arborescence du site**
 
 Voici ci-dessous un plan indiquant les les information que comporte chaque page.
