@@ -76,7 +76,7 @@ N'ayant pas de contrainte de design, la palette de couleur ainsi que la police 
 
 Voici ci-dessous un plan indiquant les les information que comporte chaque page.
 
-- Page d’acceuil
+- Page d’accueil
     - Présentation du bachelier en option web.
     - Dernière news importantes de la section web.
 - Page actualité
