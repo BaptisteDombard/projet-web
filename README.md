@@ -68,9 +68,8 @@ Le logo de la HEPL est la seul resource déja créer à notre disposition.
 
 Mr Vilain est notre client mais également une aide interne.
 
-## **Charte graphique**
-
-N'ayant pas de contrainte de design, la palette de couleur ainsi que la police d'écriture sont libre.
+## **Charte graphique** 
+La police choisie pour réaliser ce projet est la police 'Montserrat'.
 
 ## **Arborescence du site**
 
@@ -85,11 +84,11 @@ Voici ci-dessous un plan indiquant les les information que comporte chaque page.
         - explication détaillée des news (comprenant date, auteurs, contennu)
 - Page professeur
     - présentation des professeurs de la section + lien vers leurs site personnel (si présent)
-- Page valeurs et pratiques
-    - Présentation des valeurs de notre école mais surtout notre section.
-    - Explication plus détaillée des valeurs qui en découle.
 - Page hepl
-    - description de la HEPL.
+  - description de la HEPL.
+  - Présentation des valeurs de notre école mais surtout notre section.
+  - Explication plus détaillée des valeurs qui en découle.
+    
 - Page cours
     - tableau présentant les différent cour par année académique.
     - lien vers les fiche CTS des différente années.
