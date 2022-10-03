@@ -90,6 +90,7 @@ Voici ci-dessous un plan indiquant les les information que comporte chaque page.
   - description de la HEPL.
   - Présentation des valeurs de notre école mais surtout notre section.
   - Explication plus détaillée des valeurs qui en découle.
+  - Témoignage d’ancien étudiant
     
 - Page cours
     - tableau présentant les différent cour par année académique.
@@ -104,7 +105,6 @@ Voici ci-dessous un plan indiquant les les information que comporte chaque page.
     - Page explicatif travail
         - explicatif détaillé du travail
         - (Peut-être ressenti de l’élève par rapport au travail)
-    - témoignage d’ancien étudiant
 - Page Contact
     - formulaire pour prendre contact avec les proffeseurs pour toute question.
     - Données de contact additionnel (ex : addresse mail, etc).
