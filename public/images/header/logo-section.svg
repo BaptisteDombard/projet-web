@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Calque_1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 104.05 38.14">
+    <defs>
+        <style>
+            .cls-1{font-size:33.76px;}.cls-1,.cls-2{fill:#599a86;}.cls-1,.cls-2,.cls-3{font-family:Montserrat-Regular,
+            Montserrat;}.cls-4{letter-spacing:0em;}.cls-2,.cls-3{font-size:8px;}.cls-3{fill:black;}
+        </style>
+    </defs>
+    <text class="cls-1" transform="translate(0 28.68)">
+        <tspan x="0" y="0">WEB</tspan>
+    </text>
+    <text class="cls-2" transform="translate(80.37 28.31)">
+        <tspan x="0" y="0">.HEPL</tspan>
+    </text>
+    <text class="cls-3" transform="translate(13.5 36.14)">
+        <tspan x="0" y="0">Best P</tspan>
+        <tspan class="cls-4" x="25.65" y="0">r</tspan>
+        <tspan x="28.78" y="0">actices</tspan>
+    </text>
+</svg>

@@ -1,0 +1,23 @@
+.projectcard{
+    display: flex;
+    flex-direction: column;
+    box-shadow: 5px 5px 10px 0 rgba(0,0,0,0.3);
+}
+.projectcard, .projectcard__img{
+    border-radius: calc-em(10,16);
+}
+.projectcard_title{
+    margin-bottom: 0;
+}
+.projectcard__text{
+    margin-bottom: calc-em(10,16);
+    margin-left: calc-em(10,16);
+}
+.projectcard__link{
+    color: #4BB96A;
+    text-decoration: none;
+}
+.projectcard__link:hover{
+    color: darken(#4BB96A, 10);
+    border-bottom: 1px solid darken(#4BB96A, 10);
+}

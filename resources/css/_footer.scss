@@ -1,0 +1,45 @@
+//global
+.footer{
+    background-color: #293132;
+    color: white;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    padding: calc-em(20,16);
+}
+.footer__linklist, .footer__socialslist, .footer__schoolinfo{
+    list-style: none;
+}
+.footer__linklist-link:hover, .footer__socialslist-link:hover{
+    color: #4BB96A;
+    border-bottom: 2px solid #4BB96A;
+}
+
+@media screen and (min-width: 900px) {
+    //Linklist
+    .footer__linklist-item{
+        margin-bottom: calc-em(5,16);
+    }
+    .footer__linklist-link{
+        text-decoration: none;
+        color: white;
+    }
+
+    //Socials
+    .footer__socialslist-item{
+        margin-bottom: calc-em(20,16);
+    }
+    .footer__socialslist-img{
+        max-width: calc-em(30,16);
+        transform: translateY(calc-em(10,16));
+    }
+    .footer__socialslist-link{
+        text-decoration: none;
+        color: white;
+    }
+
+    //School info
+    .footer__schoolinfo-excerpt{
+        line-height: 30px;
+    }
+}
+

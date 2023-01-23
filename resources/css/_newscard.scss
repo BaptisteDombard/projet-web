@@ -1,0 +1,30 @@
+//Newscard
+
+@media screen and (min-width: 900px) {
+    .newscard{
+        display: flex;
+        box-shadow: 5px 5px 10px 0 rgba(0,0,0,0.3);
+    }
+    .newscard, .newscard__img{
+        border-radius: calc-em(10,16);
+    }
+    .newscard__text{
+        padding-left: calc-em(50,16);
+        padding-bottom: calc-em(40,16);
+        background-color: white;
+    }
+    .newscard__title{
+        margin: calc-em(30,24) 0 0;
+    }
+    .newscard__author{
+        margin-top: 0;
+    }
+    .newscard__link{
+        color: #4BB96A;
+        text-decoration: none;
+    }
+    .newscard__link:hover{
+        color: darken(#4BB96A, 10);
+        border-bottom: 1px solid darken(#4BB96A, 10);
+    }
+}

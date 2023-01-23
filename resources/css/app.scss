@@ -1,0 +1,280 @@
+//Import
+
+@import "functions";
+@import "fonts";
+@import "header";
+@import "newscard";
+@import "forumcard";
+@import "projectcard";
+@import "footer";
+@import "colors";
+
+//Style
+
+//Global
+*{
+    font-family: monserratRegular, serif;
+}
+body{
+    margin: 0;
+    background-color: white;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+.hidden{
+    overflow: hidden;
+    position: absolute;
+    left: 0;
+    top: -10000px;
+}
+.footer{
+    justify-self: flex-end;
+    margin-top: auto;
+}
+.error-message{
+    color: red;
+}
+@media screen and (min-width: 900px) {
+
+    //--------------------
+    //Home page
+    //--------------------
+
+    //Banner
+    .main__banner{
+        padding: calc-em(130,16) 0 calc-em(80,16) calc-em(80,16);
+        margin-bottom: calc-em(100,16);
+        color: white;
+        background-image: url("../../public/images/home/banner-background.jpg");
+        background-size: cover;
+    }
+    .main__banner-firsttext, .main__banner-secondtext{
+        font-size: calc-em(36,16);
+    }
+    .main__banner-secondtext{
+        margin: calc-em(30,36) calc-em(120,36) calc-em(200,36);
+    }
+    .main__banner-excerpt{
+        max-width: calc-em(600,16);
+        margin-left: calc-em(70,16);
+    }
+    .main__banner-button{
+        text-decoration: none;
+        color: white;
+        background-color: #4BB96A;
+        padding: 0.5em;
+        border: 2px solid #4BB96A;
+        border-radius: 10px;
+        margin-left: calc-em(400,16);
+    }
+    .main__banner-button:hover{
+        background: darken(#4BB96A, 10);
+        border-color: darken(#4BB96A, 10);
+    }
+
+    //News Section
+    .lastnews{
+        display: flex;
+        flex-direction: column;
+        gap: calc-em(60,16);
+        max-width: 80%;
+        margin: 0 auto calc-em(100,16);
+    }
+    .lastnews__title{
+        align-self: center;
+    }
+    .lastnews__container{
+        display: flex;
+        flex-direction: column;
+        gap: calc-em(100,16);
+    }
+    .lastnews__link{
+        text-decoration: none;
+        color: white;
+        background-color: #4BB96A;
+        padding: 0.5em;
+        border: 2px solid #4BB96A;
+        border-radius: 10px;
+        text-align: center;
+        align-self: center;
+    }
+    .lastnews__link:hover{
+        background: darken(#4BB96A, 10);
+        border-color: darken(#4BB96A, 10);
+    }
+    .newscard:hover{
+        transform: scale(1.1);
+        transition: 1s;
+    }
+
+    //Project section
+    .projects{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: calc-em(60,16);
+    }
+    .projects__container{
+        display: flex;
+        gap: calc-em(60,16);
+    }
+    .projects__link{
+        text-decoration: none;
+        color: white;
+        background-color: #4BB96A;
+        padding: 0.5em;
+        border: 2px solid #4BB96A;
+        border-radius: 10px;
+        text-align: center;
+        align-self: center;
+    }
+    .projects__link:hover{
+        background: darken(#4BB96A, 10);
+        border-color: darken(#4BB96A, 10);
+    }
+
+    //Navigation transversal
+    .navtrans{
+        display: flex;
+        flex-direction: column;
+        gap: calc-em(60,16);
+        margin-bottom: calc-em(60,16);
+    }
+    .navtrans__excerpt{
+        font-size: calc-em(24,16);
+        text-align: center;
+    }
+    .navtrans__container{
+        display: flex;
+        justify-content: center;
+        gap: calc-em(370,16);
+    }
+    .navtrans__link{
+        text-decoration: none;
+        color: white;
+        background-color: #4BB96A;
+        padding: 0.5em;
+        border: 2px solid #4BB96A;
+        border-radius: 10px;
+        text-align: center;
+        align-self: center;
+    }
+    .navtrans__link:hover{
+        background: darken(#4BB96A, 10);
+        border-color: darken(#4BB96A, 10);
+    }
+
+    //----------------
+    //---Blog page----
+    //----------------
+
+    .blogmain{
+        display: flex;
+        flex-direction: column;
+        max-width: 80%;
+        margin: 0 auto;
+    }
+    .blogmain__title{
+        align-self: center;
+    }
+    .blogmain__subtitle{
+        align-self: center;
+    }
+    .news{
+        display: flex;
+        flex-direction: column;
+        gap: calc-em(60,16);
+        margin: calc-em(60,16) auto;
+    }
+    .form__container{
+        margin-top: calc-em(100,16);
+        display: flex;
+        justify-content: space-between;
+    }
+    .temporary{
+        border: 1px solid black;
+    }
+
+    //----------------
+    //---Forum Page---
+    //----------------
+
+    .forummain{
+        display: flex;
+        flex-direction: column;
+        min-width: 80%;
+        margin: 0 auto;
+    }
+    .forummain__title{
+    align-self: center;
+    }
+    .forum__container{
+        display: flex;
+        flex-direction: column;
+        gap: 1em;
+        margin-top: calc-em(40, 16);
+    }
+    .forumform__container{
+        display: flex;
+        justify-content: space-between;
+    }
+    .filter__forumform, .forum__container, .keyword__forumform, .forumform__container{
+        min-width: 80%;
+        align-self: center;
+    }
+    .newssection{
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        align-items: center;
+        justify-items: center;
+        background-color: $lightgreen;
+    }
+
+    //------------------
+    //---Project page---
+    //------------------
+
+    .projectmain{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        max-width: 70%;
+        margin: 0 auto ;
+    }
+    .projectmain__title{
+        align-self: center;
+    }
+    .projectmain__subtitle{
+        align-self: center;
+    }
+    .projectmain__container{
+        display: flex;
+        flex-wrap: wrap;
+        gap: 1.5em;
+    }
+    .projectmain__container .projectcard{
+
+    }
+
+    //------------------
+    //---Login Page-----
+    //------------------
+
+    .login__title{
+        text-align: center;
+        margin-bottom: 2em;
+    }
+    .login__form{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 1em;
+    }
+    .input__container{
+        min-width: 35%;
+        display: flex;
+        flex-direction: column;
+        gap: 0.5em;
+    }
+}

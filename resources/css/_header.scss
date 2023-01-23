@@ -1,0 +1,123 @@
+@import "colors";
+
+//Header navigation
+.nav__logo-img{
+    min-width: calc-em(125,16);
+    margin-left: calc-em(15,16);
+}
+.nav__list{
+    display: flex;
+    padding-left: 0;
+    gap: calc-em(15,16);
+}
+.nav__list-item:nth-child(n+1){
+    align-self: center;
+}
+.nav__list-item:nth-child(2){
+    margin-left: calc-em(550,16);
+}
+.nav__list-item{
+    list-style: none;
+}
+.nav__list-link{
+    padding: 0.5em;
+}
+.nav__list-link, .inscripiton__link, .connection__link{
+    text-decoration: none;
+    color: black;
+}
+.nav__list-link:hover{
+    color: #4BB96A;
+    border-bottom: 2px solid #4BB96A;
+}
+.inscripiton__link{
+    border: 2px solid #4BB96A;
+    border-radius: 10px;
+    padding: 0.5em;
+}
+.inscripiton__link:hover{
+    background-color: darken(white, 5);
+}
+.connection__link{
+    color: white;
+    background-color: $green;
+    padding: 0.5em;
+    border: 2px solid $green;
+    border-radius: 10px;
+}
+.connection__link:hover{
+    background-color: darken($green, 5);
+}
+
+//dropdown-menu
+.dropdown__container{
+    list-style: none;
+    position: relative;
+}
+.dropdown__list{
+    display: none;
+    position: absolute;
+    top: calc-em(35,16);
+    background-color: white;
+    padding: 0;
+    min-width: calc-em(120, 16);
+}
+.dropdown__link{
+    text-decoration: none;
+    color: black;
+    display: inline-block;
+    padding: 0.5em;
+}
+.dropdown__item{
+    list-style: none;
+}
+.dropdown__btn{
+    padding: 0.5em;
+}
+.dropdown__btn-link{
+    text-decoration: none;
+    color: black;
+}
+.dropdown__item:hover{
+    background-color: #4BB96A;
+}
+.dropdown__item:hover .dropdown__link{
+    color: white;
+}
+.dropdown__container:hover .dropdown__list{
+    display: block;
+    border: $green solid 2px;
+}
+.dropdown__container:hover .dropdown__btn{
+    background-color: #4BB96A;
+}
+.dropdown__container:hover .dropdown__btn-link{
+    color: white;
+}
+.dropdown__container:hover .link__arrow{
+    transform: rotate(180deg);
+    transition: 0.5s;
+    fill: white;
+}
+
+//logout button
+
+.logout__button{
+    color: white;
+    background-color: $green;
+    padding: 0.75em;
+    border: 2px solid $green;
+    border-radius: 10px;
+}
+.logout__button:hover{
+    background-color: darken($green, 5);
+}
+
+//connected user
+.connected__user{
+    color: $green;
+    text-decoration: none;
+}
+.connected__user:hover{
+    color: darken($green, 10);
+}
